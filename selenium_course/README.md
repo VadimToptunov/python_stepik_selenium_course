@@ -14,6 +14,6 @@
 
 ## Полезные методы Selenium:
 
-1. [Получение текста элемента с помощью .text]()
-2. [Получение значения атрибута элемента с помощью get_attribute()]()
+1. [Получение текста элемента с помощью .text](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter2/lesson1_step5.py)
+2. [Получение значения атрибута элемента с помощью get_attribute()](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter2/lesson1_step7.py)
 3. []()
