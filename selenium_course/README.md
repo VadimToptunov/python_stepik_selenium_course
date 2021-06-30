@@ -16,4 +16,6 @@
 
 1. [Получение текста элемента с помощью .text](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter2/lesson1_step5.py)
 2. [Получение значения атрибута элемента с помощью get_attribute()](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter2/lesson1_step7.py)
-3. []()
+3. [Работа с выпадающим списком](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter2/lesson2_step3.py)
+4. [Выполнение JS-скриптов средствами Selenium WebDriver](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter2/lesson2_step6.py)
+5. [Загрузка файлов](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter2/lesson2_step8.py)
