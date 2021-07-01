@@ -19,3 +19,6 @@
 3. [Работа с выпадающим списком](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter2/lesson2_step3.py)
 4. [Выполнение JS-скриптов средствами Selenium WebDriver](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter2/lesson2_step6.py)
 5. [Загрузка файлов](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter2/lesson2_step8.py)
+6. [Взаимодействие с alert'ами](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter2/lesson3_step4.py)
+7. [Переключение между окнами браузера](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter2/lesson3_step6.py)
+8. [Работа с Explicit Waits](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter2/lesson4_step8.py)
