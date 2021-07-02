@@ -22,3 +22,8 @@
 6. [Взаимодействие с alert'ами](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter2/lesson3_step4.py)
 7. [Переключение между окнами браузера](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter2/lesson3_step6.py)
 8. [Работа с Explicit Waits](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter2/lesson4_step8.py)
+
+## Тестовые фреймворки
+
+1. [Assert'ы и сообщения об ошибках](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson2_step8.py)
+2. [Assert'ы и сообщения об ошибках, работа с неточными равенствами](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson2_step9.py)
