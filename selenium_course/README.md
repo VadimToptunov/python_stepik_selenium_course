@@ -32,6 +32,6 @@
 5. [Пример работы фикстур в pytest](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson4_step2.py)
 6. [Пример работы с @pytest.fixture](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson4_step3.py)
 7. [Финализаторы в pytest](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson4_step4.py)
-8.[Область видимости scope](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson4_step5.py)
+8. [Область видимости scope](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson4_step5.py)
 9. [Автоиспользование фикстур](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson4_step6.py)
 10. [Фикстуры pytest](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson4_step7.py)
