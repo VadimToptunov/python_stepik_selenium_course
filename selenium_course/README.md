@@ -27,3 +27,4 @@
 
 1. [Assert'ы и сообщения об ошибках](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson2_step8.py)
 2. [Assert'ы и сообщения об ошибках, работа с неточными равенствами](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson2_step9.py)
+3. [Написание тестов с помощью фреймворка unittest](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson2_step13.py)
