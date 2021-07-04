@@ -42,3 +42,5 @@
 15. [Параметры @pytest.mark.xfail](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson5_step6.py)
 16. [Параметризация тестов, пример с параметризованной функцией](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson6_step2.py)
 17. [Параметризация тестов, пример с параметризованным классом](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson6_step2_2.py)
+18. [Задание на параметризованные тесты](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson6_step3.py)
+19. [Conftest.py — конфигурация тестов](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson6_step4.py)
