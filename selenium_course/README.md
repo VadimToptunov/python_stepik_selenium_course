@@ -35,3 +35,8 @@
 8. [Область видимости scope](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson4_step5.py)
 9. [Автоиспользование фикстур](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson4_step6.py)
 10. [Фикстуры pytest](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson4_step7.py)
+11. [Маркировка тестов в pytest ч.1](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson5_step2.py)
+12. [Маркировка тестов в pytest ч.2](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson5_step3.py)
+13. [Пропуск тестов @pytest.mark.skip](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson5_step4.py)
+14. [Пометка теста как ожидаемо падающего, @pytest.mark.xfail](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson5_step5.py)
+15. [Параметры @pytest.mark.xfail](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson5_step6.py)
