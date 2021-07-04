@@ -40,3 +40,5 @@
 13. [Пропуск тестов @pytest.mark.skip](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson5_step4.py)
 14. [Пометка теста как ожидаемо падающего, @pytest.mark.xfail](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson5_step5.py)
 15. [Параметры @pytest.mark.xfail](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson5_step6.py)
+16. [Параметризация тестов, пример с параметризованной функцией](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson6_step2.py)
+17. [Параметризация тестов, пример с параметризованным классом](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson6_step2_2.py)
