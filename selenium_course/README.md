@@ -46,3 +46,4 @@
 19. [Conftest.py — конфигурация тестов](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson6_step4.py)
 20. [Conftest.py и передача параметров в командной строке](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson6_step6.py)
 21. [Плагины и перезапуск тестов](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson6_step7.py)
+22. [Задание: запуск автотестов для разных языков интерфейса, peer review](https://github.com/VadimToptunov/stepik_interface_tests)
