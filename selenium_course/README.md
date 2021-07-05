@@ -44,3 +44,5 @@
 17. [Параметризация тестов, пример с параметризованным классом](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson6_step2_2.py)
 18. [Задание на параметризованные тесты](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson6_step3.py)
 19. [Conftest.py — конфигурация тестов](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson6_step4.py)
+20. [Conftest.py и передача параметров в командной строке](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson6_step6.py)
+21. [Плагины и перезапуск тестов](https://github.com/VadimToptunov/python_stepik_selenium_course/blob/main/selenium_course/chapter3/lesson6_step7.py)
